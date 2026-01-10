@@ -1,10 +1,12 @@
+package Week2;
+
 import java.util.*;
 
 interface performOperation {
     boolean check(int num);
 }
 
-public class Week2 {
+public class Session1 {
 
     // Session 1
     // https://www.hackerrank.com/challenges/java-lambda-expressions/problem
